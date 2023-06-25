@@ -21,6 +21,7 @@ Remove the lens by pulling on the focus knob.
 Remove the lens holder screws and remove the lens holder.  
 Install the new 3D rpinted holder reusing the same mounting screws.  
 Remove the new lens outer cylinder by removing the retaining screws. 
+Adjust the lens aperture to max.  
 Install the new lens into the lens housing.  
 Remove the projector light and mount the led light in its place.  
 You will need the new base for the light. Check the mechanical parts folder. 
