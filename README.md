@@ -13,7 +13,7 @@ New belt (made my own) 2 day of work to get the setup running.
 ![PXL_20230430_151454586](https://github.com/vintagefilmography/sankyo_with_hnc-hs9/assets/48537944/62d47d7f-b3b7-4286-9a26-cfc7140df920)
 
 Here is the result:    
-https://drive.google.com/file/d/1i-V...usp=share_link   
+[https://drive.google.com/file/d/1i-V...usp=share_link  ](https://drive.google.com/file/d/1-_Ay1MQdAtYHdFCtvBkDv3w-7ecDN041/view?usp=sharing)   
 Actually quite decent for a simple setup like this. Nice colors and almost 0 flicker.   
 The projector speed adjustment has a nice range and very easy to get close to 0 flicker.  
 ## Instructons  
