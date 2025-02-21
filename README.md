@@ -10,7 +10,11 @@ https://www.amazon.com/dp/B098W63FJ5?psc=1&ref=ppx_yo2ov_dt_b_product_details
 50mm FL lens  
 https://www.seeedstudio.com/8MP-50mm-C-Mount-Lens-for-Raspberry-Pi-High-Quality-Camera-p-4624.html    
 New belt (made my own) 2 day of work to get the setup running.
-![PXL_20230430_151454586](https://github.com/vintagefilmography/sankyo_with_hnc-hs9/assets/48537944/62d47d7f-b3b7-4286-9a26-cfc7140df920)
+![PXL_20230430_151454586](https://github.com/vintagefilmography/sankyo_with_hnc-hs9/assets/48537944/62d47d7f-b3b7-4286-9a26-cfc7140df920)  
+##Camera Slider Mounting  
+The following camera sider is used:  
+https://www.bhphotovideo.com/c/product/193311-REG/Velbon_SUPER_MAG_SLIDER_Super_Mag_Slider.html  
+
 
 Here is the result:    
 [https://drive.google.com/file/d/1i-V...usp=share_link  ](https://drive.google.com/file/d/1-_Ay1MQdAtYHdFCtvBkDv3w-7ecDN041/view?usp=sharing)   
